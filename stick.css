@@ -1,0 +1,82 @@
+#d1{
+    height: 50px;
+    width: 50px;
+    background-color: khaki;
+    position: sticky;
+    top: 20%;
+}
+#d2{
+    height: 50px;
+    width: 50px;
+    background-color: rebeccapurple;
+    position: sticky;
+    top: 20%;
+    left: 10%;
+}
+#d3{
+    height: 50px;
+    width: 50px;
+    background-color: orange;
+    position: sticky;
+    top: 20%;
+    left: 20%;
+}
+#d4{
+    height: 50px;
+    width: 50px;
+    background-color: gray;
+    position: sticky;
+    top: 20%;
+    left: 30%;
+}
+#d5{
+    height: 50px;
+    width: 50px;
+    background-color: pink;
+    position: sticky;
+    top:20%;
+    left: 40%;
+}
+#d6{
+    height: 50px;
+    width: 50px;
+    background-color: violet;
+    position: sticky;
+    top: 20%;
+    left: 50%;
+}
+#d7{
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    position: sticky;
+    top: 20%;
+    left: 60%;
+}
+#d8{
+    height: 50px;
+    width: 50px;
+    background-color: blue;
+    position: sticky;
+    top: 20%;
+    left: 70%;
+}
+#d9{
+    height: 50px;
+    width: 50px;
+    background-color: yellow;
+    position: sticky;
+    top: 20%;
+    left: 80%;
+}
+#d10{
+    height: 50px;
+    width: 50px;
+    background-color:green;
+    position: sticky;
+    top: 20%;
+    left: 90%;
+}
+div{
+    position: relative;
+}
